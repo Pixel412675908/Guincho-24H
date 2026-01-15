@@ -1,0 +1,7 @@
+{
+  "name": "Guincho 24h Piracicabaℹ️",
+  "description": "Serviço de guincho e assistência rodoviária 24 horas em Piracicaba e região. Chegamos em até 30 minutos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
